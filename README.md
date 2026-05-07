@@ -78,7 +78,8 @@ A focused developer building practical utilities, workflow automations, and clea
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
   </a>
 </p>
-
+</br>
+<sub><em>// thanks for stopping by — keep building, keep breaking, keep learning.</em></sub>
 </div>
 
 <h4 align = "center"> 
