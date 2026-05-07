@@ -5,13 +5,16 @@ Hi there, I'm Mogdho Paul
 A focused developer building practical utilities, workflow automations, and clean web applications. I specialize in identifying software gaps and engineering lightweight, zero-dependency solutions.
 <div style="text-align: center;">
   <img src="https://komarev.com/ghpvc/?username=mogdho&style=flat-square&color=blue" alt="Profile Views"/>
+  <a href="https://github.com/mogdho">
+    <img src="https://img.shields.io/github/last-commit/mogdho/mogdho?style=flat-square&color=blue&label=last%20commit" alt="Last commit" />
+  </a>
   <img src="https://img.shields.io/github/followers/mogdho?style=social" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/mogdho?style=social" alt="GitHub Stars"/>
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -29,23 +32,24 @@ A focused developer building practical utilities, workflow automations, and clea
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Modern Rocket" width="60" height="60" />
-</p>
-
 <div style="text-align: center;">
   <h3>About Me</h3>
-  <p>👨‍💻 I’m an engineer at heart and a self-taught developer by trade, obsessively engineering applied AI into full-stack web and desktop environments.</p>
-  <p>💡 I hypothesize that most software workflows can be made >90% more efficient, and I test this by building zero-dependency utilities, logical automations (AHK v2), and high-performance Chrome extensions.</p>
-  <p>🎬 My approach combines technical rigor with creative direction, harmonizing SEO optimization, advanced OS debloating, and video post-production (After Effects) into a unified digital ecosystem.</p>
-  <p>🔍 Currently focused on leveraging Browser APIs and Local LLMs to create persistent, privacy-focused productivity tools that solve hyper-specific user pain points.</p>
-  <p>🚀 When I'm not optimizing my Legion 5's NVMe TRIM or RTX Shader Caches, I'm analyzing Google SERP ranking algorithms for my personal brand.</p>
+
+<p align="center">
+  <img src="/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" alt="animated gif" width="500" height="500" />
+</p>
+
+  <p><b>// Applied AI</b> : I obsessively engineer applied AI into full-stack web and desktop environments.</p>
+  <p><b>// Efficiency First</b> : I hypothesize that most software workflows can be made >90% more efficient, building zero-dependency utilities and high-performance apps to prove it.</p>
+  <p><b>// Creative Rigor</b> : My approach combines technical rigor with creative direction, harmonizing SEO and OS optimization into a unified digital ecosystem.</p>
+  <p><b>// Privacy-Focused</b> : Currently leveraging Browser APIs and Local LLMs to create persistent, privacy-focused tools that solve hyper-specific user pain points.</p>
+  <p><b>// Gaming</b> : When I’m not coding, I’m usually gaming—diving into immersive worlds or refining my setup for peak performance.</p>
 </div>
 
 ---
 
-### 🔥 Coding Streak & Efficiency
+
+###  Coding Streak & Efficiency
 
 
 
@@ -61,14 +65,25 @@ A focused developer building practical utilities, workflow automations, and clea
 
 ---
 
+###  Connect With Me
+<div align="center">
 
-
-
-### 🌍 Connect With Me
+<a href="https://instagram.com/mogdhopaul" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/mogdhopaul" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/mogdhopaul" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://facebook.com/mogdhopaul" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</br>
 <p align="center">
-  <a href="https://maggy2minutes.wordpress.com"><img src="https://img.shields.io/badge/WordPress-%23117EB9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" /></a>
-  <a href="https://github.com/mogdho"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="#" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mogdho&label=Profile%20Views&color=1F6F5F&style=flat-square&abbreviated=true" alt="Profile Views Counter" />
-</p>
+
+</div>
+
+<h4 align = "center"> 
+  
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=20&duration=4980&pause=1099&color=FFFFFF&vCenter=true&random=false&width=550&lines=Check+my+Pinned+Repositories+below+and+leave++Star+Please+✯" alt="Typing SVG"/>
+
+</h4>
