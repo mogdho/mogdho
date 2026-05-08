@@ -1,6 +1,6 @@
 Hi there, I'm Mogdho Paul
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F6F5F&center=false&vCenter=true&width=500&lines=AI+Assisted+Developer;Search+Engine+Optimizer;Innovator+Tech+Enthusiast;Web+Developer;Workflow+Automation+Expert" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F6F5F&center=false&vCenter=true&width=500&lines=AI+Assisted+Developer;Search+Engine+Optimizer;Innovative+&+Tech+Enthusiast;Web+Developer;Workflow+Automation+Expert" alt="Typing SVG" /></a>
 
 A focused developer building practical utilities, workflow automations, and clean web applications. I specialize in identifying software gaps and engineering lightweight, zero-dependency solutions.
 <div style="text-align: center;">
